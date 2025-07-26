@@ -42,3 +42,9 @@ record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
 {
     public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
 }
+
+//TODO: figure out schema for initial data pull within the graph API
+//build the underlying schema, start fetching data for eleazarhernandezmusic email user
+//eventually, an LLM app with a team of agents are going to be able to pull from the DB and start analyzing
+//store this in a different table
+//present these in a small UI
