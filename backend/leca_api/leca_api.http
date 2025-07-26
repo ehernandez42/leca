@@ -1,0 +1,6 @@
+@leca_api_HostAddress = http://localhost:5116
+
+GET {{leca_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
