@@ -18,5 +18,4 @@ Endpoints for checking emails with keywords:
 ```
 GET https://graph.microsoft.com/v1.0/me/messages?$search="{text}"
 ```
-
 ---

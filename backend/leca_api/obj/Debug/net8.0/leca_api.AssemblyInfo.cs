@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("leca_api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c9387556c3f28dc3d3fb637fe2fe87f6bc651f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e782f3ed6f12a7eb4b0f74480d6981edc373b033")]
 [assembly: System.Reflection.AssemblyProductAttribute("leca_api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("leca_api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
