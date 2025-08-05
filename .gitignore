@@ -1,1 +1,2 @@
-backend/leca_api/*.json
+appsettings.json
+appsettings.Development.json
