@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/leca_api.props" />
-</Project>
